@@ -45,7 +45,7 @@ To install the necessary dependencies, use the following command:
 pip install -r requirements.txt
 
 🚀 Usage
-Clone the repository:
+Clone the repository: https://github.com/Elangovan0101/House-price-prediction.git
 
 
 🤖 Models Used
